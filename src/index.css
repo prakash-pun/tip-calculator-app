@@ -213,8 +213,10 @@ header {
 .tip-result-container .btn-active {
   background-color: #9fe8df;
   color: #014944;
+  cursor: pointer;
 }
 
 .tip-result-container .btn-inactive {
   background-color: #0c686c;
+  cursor: pointer;
 }
